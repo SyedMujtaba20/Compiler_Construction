@@ -1,0 +1,11 @@
+
+
+
+
+int main() {
+    int a;
+    assign a=0;
+
+
+    return 0;
+}

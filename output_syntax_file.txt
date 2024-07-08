@@ -1,0 +1,8 @@
+
+TOKEN UNEXPECTED:
+	Value:	=
+	Type:	AO
+	File:	'.\source_file.txt' [@ 2]
+	Token:	2
+
+

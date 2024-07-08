@@ -1,0 +1,8 @@
+
+TOKEN UNEXPECTED: 
+	Line number : 2
+	Type : ID
+	Value :	a
+	Token :	6
+
+
